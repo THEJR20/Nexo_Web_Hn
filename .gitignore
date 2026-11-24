@@ -1,0 +1,10 @@
+# Dependencias y compilados
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Archivos del sistema y editores
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
